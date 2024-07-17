@@ -17,7 +17,7 @@ const Main = () => {
                 <TelegramText className={'telegramTitle'}>Main Screen</TelegramText>
             </TelegramHeader>
 
-            <TelegramText>Welcome {user?.username}!</TelegramText>
+            <TelegramText>Welcome Mr/Mrs {user?.username}!</TelegramText>
 
             <TelegramText className={'telegramSubtitle'}>Navigate to a screen:</TelegramText>
 
